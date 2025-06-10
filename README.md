@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagrajx" alt="nagrajx" /></a> </p>
 
-- 🔭 I’m currently working on [Recipe App](https://nagrajx.github.io/Recipe-App/)
+- 🔭 I’m currently working on Self Improving
 
 - 👯 I’m looking to collaborate on **Open source Project**
 
