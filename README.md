@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nagrajx](https://github.com/Nagrajx)
+- 👨‍💻 All of my projects are available at [https://github.com/Nagrajx?tab=repositories]
 
 - 📫 How to reach me **satishnagraj54@gamil.com**
 
